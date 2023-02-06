@@ -1,0 +1,256 @@
+body {
+    margin: 0px;
+}
+.Header {
+    height: 110px;
+    width: 100%;
+    background-color: black;
+}
+.Logo-img {
+    margin-top: 27px;
+    margin-left: 88px;
+    float: left;
+    width: 70px;
+    height: 52px;
+}
+.Menu {
+    float: left;
+    padding-top: 52px;
+}
+.Menu-item {
+    font-family: 'Open Sans', sans-serif;  
+    float: left;
+    color: white;
+    list-style-type: none;
+    font-size: 13px;
+    padding-left: 36px;
+}
+.Search-icon {
+    width: 25px;
+    height: 24px;
+    padding-left: 467px;
+    float: left;
+}
+.Shop-icon {
+    width: 14px;
+    height: 16px;
+    padding-left: 29px;
+    float: left;
+}
+.Price {
+    font-family: 'Open Sans', sans-serif;  
+    float: left;
+    color: white;
+    font-size: 13px;
+    padding-left: 9px;
+}
+.Slider {
+    float: left;
+    width: 100%;
+    height: 651px;
+    background-image: url('images/slider1.jpg');
+}
+.Title {
+    font-family: 'Open Sans', sans-serif;  
+    font-size: 80px;
+    color: white;
+}
+.Button {
+    font-family: 'Open Sans', sans-serif;  
+    font-size: 14px;
+    padding: 19px 34px;
+    color: white;
+    background-color: black;
+    float: right;
+}
+.Slider-block {
+    width: 503px;
+    margin: auto;
+    margin-top: 212px;
+}
+.Preview-block {
+    width: 100%;
+    float: left;
+    margin-bottom: 216px;
+}
+.Preview-title {
+    width: 100%;
+    float: left;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 160px;
+    text-align: center;
+    font-size: 48px;
+}
+.Preview-subtitle {
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.X {
+    display: block;
+    margin: auto;
+    margin-top: 28px;
+}
+.Boards-block {
+   position: relative;
+   width: 100%;
+   float: left;
+   overflow: hidden;
+
+}
+.Boards {
+    position: relative;
+    top: 0px;
+    left: -120px;
+    margin-top: 122px;
+    margin-bottom: 60px;
+}
+.Arrow-left {
+    position: absolute;
+    top: 190px;
+    left: 13px;
+}
+.Arrow-right {
+    position: absolute;
+    top: 190px;
+    right: 13px;
+}
+#fs24 {
+    font-size: 24px;
+}
+.O-nas {
+    width: 100%;
+    background-image: url('images/bg image.png');
+    float: left;
+    padding-bottom: 170px;
+}
+.O-nas-title {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 800;
+    font-size: 48px;
+    color: white;
+    margin-left: 220px;
+    margin-top: 251px;
+    width: 450px;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+}
+.O-nas-title span {
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    bottom: 26px;
+
+}
+.O-nas-text {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    margin-left: 220px;
+    width: 601px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.Features {
+    width: 100%;
+    float: left;
+    padding-bottom: 137px;
+}
+.Features-title {
+    width: 100%;
+    float: left;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 125px;
+    text-align: center;
+    font-size: 48px;
+}
+.Features-X {
+    display: block;
+    margin: auto;
+    margin-top: 36px;
+    margin-bottom: 85px;
+}
+.Features-block {
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+
+}
+.Features-img-block {
+    float: left;
+    width: 25%;
+}
+.Features-img {
+    width: 217px;
+    height: 157px;
+
+
+}
+.Features-text {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    width: 217px;
+}
+
+.Footer {
+    width: 100%;
+    float: left;
+    background-color: black;
+
+}
+.Footer-wrapper {
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 70px;
+}
+.Footer-block {
+    width: 25%;
+    float: left;
+    color: white;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 14px;
+    font-weight: 400px;
+}
+.Footer-block h2 {
+    font-size: 17px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 75px;
+    margin-bottom: 30px;
+}
+.Footer-block p {
+    color: c9c9c9;
+    line-height: 30px;
+}
+.Footer-block input {
+    width: 162px;
+    height: 40px;
+    float: left;
+    padding-left: 15px;
+    border: none;
+    border-radius: none;
+}
+.Footer-block button {
+    width: 57px;
+    height: 42px;
+    float: left;
+    border: none;
+    border-radius: none;
+    background-color: c7c7c7;
+    font-size: 15px;
+    font-weight: 800px;
+}
+.Footer-block img {
+    margin-top: 62px;
+}
